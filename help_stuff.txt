@@ -1,0 +1,4 @@
+install:
+https://www.klipper3d.org/Installation.html#prepping-an-os-image
+configs:
+https://github.com/KevinOConnor/klipper/tree/master/config
